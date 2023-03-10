@@ -7,6 +7,7 @@ Die App ist hochgeladen als Zip-Folder, damit keine Files fehlen und die App aus
 Nach dem herunterladen wie gewohnt an den gewünschten Ort entpacken und mit der AndroidStudio App öffnen.
 
 Die App funktioniert wie im erstellten Ablaufdiagramm beabsichtigt und alle Funktionen wurden implementiert.
+Die PDF des Ablaufdiagramms ist mit hochgeladen, dort ist eine genauere Beschreibung der App zu finden.
 
 Hochgeladen am 10.03.2023 um ca 02:00 Uhr.
 
